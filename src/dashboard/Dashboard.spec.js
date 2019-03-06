@@ -1,6 +1,7 @@
 // Test away
 import React from 'react';
 import ReactDOM from 'react-dom';
+import 'react-testing-library/cleanup-after-each';
 
 import Dashboard from './Dashboard';
 
